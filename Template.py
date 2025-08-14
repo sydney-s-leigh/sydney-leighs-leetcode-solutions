@@ -10,7 +10,10 @@ class Solution(object):
         :rtype: str
         """
 
+s = Solution()
+
 def testCase():
+
     print("This is where we code our test case")
 
 testCase()
